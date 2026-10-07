@@ -1,3 +1,8 @@
 # New Zealand dental Google-review outreach exclusions
 # Append only successful Gmail draft recipients.
 # Format: email | Practice Name
+reception@remarkablesmile.co.nz | Remarkable Smile Dentistry
+reception@walkerfamilydental.co.nz | Walker Family Dental
+reception@doughertydental.co.nz | Dougherty Dental
+kierano@oneillortho.co.nz | Kieran O'Neill Orthodontics Invercargill
+admin@pcrowther.co.nz | Paul Crowther Orthodontics
