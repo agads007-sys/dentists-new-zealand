@@ -13,4 +13,7 @@ gmail9 | michaeldkb2025@gmail.com | GMAIL9_APP_PASSWORD
 gmail10 | michaelbdk2021@gmail.com | GMAIL10_APP_PASSWORD
 
 # Rule: spread each run across all 10 available Gmail accounts as evenly as practical.
+# Use round-robin order gmail1 through gmail10, then repeat. Never stop the rotation at gmail7.
+# For a standard run of 25 new successful drafts: gmail1-gmail5 receive 3 each and gmail6-gmail10 receive 2 each.
+# Advance the rotation only after confirmed successful draft creation. Prior runs do not count toward this run.
 # Drafts only. Never send automatically.
